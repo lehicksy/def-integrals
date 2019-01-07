@@ -1,5 +1,4 @@
 {- Lauren Hicks
-hicksl3
 2018-12-03
 Assignment 5
 -}
